@@ -9,11 +9,16 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        primary: '#31241c',  // Dark brownish color
+        secondary: '#f4361c', // Red
+        pink: '#faf4f5', // Light pink
+      },
+      fontFamily: {
+        cursive: ['Miniver', 'sans-serif'],  // Custom font
       },
     },
   },
   plugins: [],
 };
+
 export default config;
