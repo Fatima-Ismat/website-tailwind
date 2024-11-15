@@ -8,9 +8,9 @@ export default function Main() {
                 <div className="section-content max-w-6xl mx-auto flex flex-col md:flex-row items-center px-6 md:px-12 space-y-10 md:space-y-0 md:space-x-12">
                     
                     <div className="hero-details text-center md:text-left space-y-6 md:w-1/2">
-                        <link
+                        {/* <link
                           href="https://fonts.googleapis.com/css2?family=Miniver&family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap"
-                          rel="stylesheet" />
+                          rel="stylesheet" /> */}
 
                         <h2 className="title text-4xl font-bold text-secondary italic">
                           Best Coffee
